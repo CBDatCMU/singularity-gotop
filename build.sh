@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=singularity-gotop.simg
+IMAGE=ubuntu16.04-gotop3.0.0.simg
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
